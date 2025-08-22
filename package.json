@@ -1,0 +1,13 @@
+{
+  "name": "stop-counter",
+  "version": "1.0.0",
+  "description": "Contador de stops con diseño bonito",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static project, no build needed'",
+    "start": "echo 'Static project, open index.html'"
+  },
+  "keywords": ["html", "static", "counter"],
+  "author": "Your Name",
+  "license": "MIT"
+} 
